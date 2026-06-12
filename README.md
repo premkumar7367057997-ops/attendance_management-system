@@ -119,6 +119,9 @@ Fields:
 
 http://localhost/attendance_management_system
 
+for data storage use this link :-
+http://localhost/phpmyadmin/index.php?route=/sql&db=attendance_db&table=attendance&pos=0
+
 ## Challenges Faced During Development
 
 While developing this project, I faced several challenges:
